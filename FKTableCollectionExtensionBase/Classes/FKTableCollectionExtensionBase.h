@@ -1,12 +1,12 @@
 //
-//  FKCollectionView.h
+//  FKTableCollectionExtensionBase_h
 //  Pods
 //
 //  Created by CHAT on 2019/5/15.
 //
 
-#ifndef FKCollectionView_h
-#define FKCollectionView_h
+#ifndef FKTableCollectionExtensionBase_h
+#define FKTableCollectionExtensionBase_h
 
 #import "FKCellModel.h"
 #import "FKHeaderFooterModel.h"
@@ -15,4 +15,4 @@
 #import "FKHeaderFooterCommon.h"
 #import "UIView+FKExtension.h"
 
-#endif /* FKCollectionView_h */
+#endif /* FKTableCollectionExtensionBase_h */
