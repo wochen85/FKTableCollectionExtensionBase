@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FKTableCollectionExtensionBase_Example' do
+  pod 'FKTableCollectionExtensionBase', :path => '../'
+
+  target 'FKTableCollectionExtensionBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
