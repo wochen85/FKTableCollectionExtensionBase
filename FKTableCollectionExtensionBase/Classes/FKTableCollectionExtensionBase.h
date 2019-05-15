@@ -11,9 +11,8 @@
 #import "FKCellModel.h"
 #import "FKHeaderFooterModel.h"
 #import "FKSectionModel.h"
-#import "UICollectionView+FKExtension.h"
-#import "UICollectionViewCell+FKExtension.h"
 #import "FKHeaderFooterCommonModel.h"
+#import "FKHeaderFooterCommon.h"
 #import "UIView+FKExtension.h"
 
 #endif /* FKCollectionView_h */

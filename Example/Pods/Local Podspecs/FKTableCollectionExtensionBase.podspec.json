@@ -2,17 +2,17 @@
   "name": "FKTableCollectionExtensionBase",
   "version": "1.0.0",
   "summary": "A short description of FKTableCollectionExtensionBase.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/chatv5/FKTableCollectionExtensionBase",
+  "description": "FKCollectionView和FKTableView的基础依赖",
+  "homepage": "https://github.com/wochen85/FKTableCollectionExtensionBase",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "chatv5": "wochen85@gmail.com"
+    "chatv5": "312163862@qq.com"
   },
   "source": {
-    "git": "https://github.com/chatv5/FKTableCollectionExtensionBase.git",
+    "git": "https://github.com/wochen85/FKTableCollectionExtensionBase.git",
     "tag": "1.0.0"
   },
   "platforms": {

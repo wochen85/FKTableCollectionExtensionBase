@@ -11,11 +11,11 @@
 #endif
 
 #import "FKCellModel.h"
-#import "FKCollectionView.h"
 #import "FKHeaderFooterCommon.h"
 #import "FKHeaderFooterCommonModel.h"
 #import "FKHeaderFooterModel.h"
 #import "FKSectionModel.h"
+#import "FKTableCollectionExtensionBase.h"
 #import "UIView+FKExtension.h"
 
 FOUNDATION_EXPORT double FKTableCollectionExtensionBaseVersionNumber;

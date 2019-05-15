@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FKTableCollectionExtensionBase: c922eb4867fab6a061f798a366e9a650f7d1c1d0
+  FKTableCollectionExtensionBase: 0b77e199d4bf07cd03a4c83875ac15b1e7e55a48
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
 
 PODFILE CHECKSUM: 095401aad663cf09178d6fdcaf7bf8c5210fe3b4
