@@ -343,23 +343,19 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-FKTableCollectionExtensionBase_Example/Pods-FKTableCollectionExtensionBase_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-FKTableCollectionExtensionBase_Example/Pods-FKTableCollectionExtensionBase_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/FKTableCollectionExtensionBase/FKTableCollectionExtensionBase.framework",
 				"${BUILT_PRODUCTS_DIR}/ReactiveObjC/ReactiveObjC.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FKTableCollectionExtensionBase.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactiveObjC.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FKTableCollectionExtensionBase_Example/Pods-FKTableCollectionExtensionBase_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FKTableCollectionExtensionBase_Example/Pods-FKTableCollectionExtensionBase_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

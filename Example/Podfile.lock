@@ -1,5 +1,5 @@
 PODS:
-  - FKTableCollectionExtensionBase (1.0.0):
+  - FKTableCollectionExtensionBase (1.0.3):
     - ReactiveObjC
   - ReactiveObjC (3.1.1)
 
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FKTableCollectionExtensionBase: 0b77e199d4bf07cd03a4c83875ac15b1e7e55a48
+  FKTableCollectionExtensionBase: c01bdbbefb0648805d6962e474fe31c786c9d467
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
 
 PODFILE CHECKSUM: 095401aad663cf09178d6fdcaf7bf8c5210fe3b4
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.7.2
