@@ -10,7 +10,8 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface FKViewModel : NSObject
-@property (nonatomic, copy) NSString* nibOrClassName;
+@property (nonatomic, copy) NSString* fk_nibOrClassName;
+@property (nonatomic, strong) NSBundle* fk_bundle;
 @end
 
 NS_ASSUME_NONNULL_END

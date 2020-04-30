@@ -8,21 +8,28 @@
 #import "FKViewModel.h"
 
 @implementation FKViewModel
-- (NSString *)nibOrClassName
+- (NSString *)fk_nibOrClassName
 {
-    if (!_nibOrClassName)
+    if (!_fk_nibOrClassName)
     {
         NSString* selfString = NSStringFromClass([self class]);
         NSArray<NSString*>* arr = [selfString componentsSeparatedByString:@"Model"];
         if (arr.count)
         {
-            _nibOrClassName = arr[0];
+            _fk_nibOrClassName = arr[0];
         }
         else
         {
-            _nibOrClassName = @"";
+            _fk_nibOrClassName = @"";
         }
     }
-    return _nibOrClassName;
+    return _fk_nibOrClassName;
+}
+
+- (NSBundle *)fk_bundle {
+    if (!_fk_bundle) {
+        _fk_bundle = [NSBundle mainBundle];
+    }
+    return _fk_bundle;
 }
 @end
